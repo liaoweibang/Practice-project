@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="meiduo_mall_db@192.168.203.151" uuid="7505564f-2526-4966-bfdf-ce0c5554189b">
+      <database-info product="MySQL" version="5.7.25-0ubuntu0.16.04.2" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>weiwei</user-name>
+      <resolve-scope>meiduo_mall_db:</resolve-scope>
+    </data-source>
+  </component>
+</project>
